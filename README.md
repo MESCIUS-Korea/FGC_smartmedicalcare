@@ -1,10 +1,10 @@
 # AI 스마트 진료 안내 (Smart Clinic Guide AI)
 
-**Repository**: [MESCIUS-Korea/FGC_smartclinic](https://github.com/MESCIUS-Korea/FGC_smartclinic)
+**Repository**: [MESCIUS-Korea/FGC_smartclinic](https://github.com/MESCIUS-Korea/FGC_smartmedicalcare)
 
 환자가 증상을 자연어로 설명하면 AI가 적합한 진료과를 추천하고, 응급 신호가 감지되면 즉시 안전한 안내로 전환하는 병원 진료 안내 시스템입니다. Forguncy의 **AI 대화 셀**과 **함수(Function)** 기능으로 구현되었습니다.
 
-⬇ **[Forguncy 프로젝트 파일 다운로드 (smartclinic.fgko)](./smartclinic.fgko?raw=true)**
+⬇ **[Forguncy 프로젝트 파일 다운로드 (smartclinic.fgko)](./smartmedicalcare.fgko?raw=true)**
 
 > 다운로드한 프로젝트 파일에는 AI 모델 연결(API 키) 정보가 포함되어 있지 않습니다. 직접 발급받은 API 키를 Forguncy 디자이너의 파일 > 옵션 > 응용 프로그램 설정에서 등록한 후 실행해주세요.
 
@@ -68,8 +68,8 @@ AI가 자동 저장한 상담 기록을 의료진이 확인하는 페이지입�
 
 ## 실행 방법
 
-1. [Forguncy 디자이너](https://www.grapecity.com/forguncy) 설치
-2. `smartclinic.fgko` 파일을 디자이너에서 열기
+1. [Forguncy 디자이너](https://www.mescius.co.kr/forguncy/download) 설치
+2. `smartmedicalcare.fgko` 파일을 디자이너에서 열기
 3. 파일 > 옵션 > 응용 프로그램 설정에서 AI 모델(OpenAI 등) 연결 — API 키 직접 등록 필요
 4. 챗봇 메인 페이지의 AI 대화 셀에서 방금 등록한 모델 선택
 5. 미리보기 또는 게시로 실행
