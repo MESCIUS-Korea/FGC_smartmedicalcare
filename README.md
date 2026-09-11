@@ -1,7 +1,5 @@
 # AI 스마트 진료 안내 (Smart Clinic Guide AI)
 
-**Repository**: [MESCIUS-Korea/FGC_smartclinic](https://github.com/MESCIUS-Korea/FGC_smartmedicalcare)
-
 환자가 증상을 자연어로 설명하면 AI가 적합한 진료과를 추천하고, 응급 신호가 감지되면 즉시 안전한 안내로 전환하는 병원 진료 안내 시스템입니다. Forguncy의 **AI 대화 셀**과 **함수(Function)** 기능으로 구현되었습니다.
 
 ⬇ **[Forguncy 프로젝트 파일 다운로드 (smartclinic.fgko)](./smartmedicalcare.fgko?raw=true)**
