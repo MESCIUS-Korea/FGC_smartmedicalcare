@@ -2,7 +2,7 @@
 
 환자가 증상을 자연어로 설명하면 AI가 적합한 진료과를 추천하고, 응급 신호가 감지되면 즉시 안전한 안내로 전환하는 병원 진료 안내 시스템입니다. Forguncy의 **AI 대화 셀**과 **함수(Function)** 기능으로 구현되었습니다.
 
-⬇ **[Forguncy 프로젝트 파일 다운로드 (smartmedicalcare.fgko)](./smartmedicalcare.fgko?raw=true)**
+⬇ **[Forguncy 프로젝트 파일 다운로드 (smartmedicalcare.fgko)](https://github.com/MESCIUS-Korea/FGC_smartmedicalcare/raw/main/smartmedicalcare.fgko)**
 
 > 다운로드한 프로젝트 파일에는 AI 모델 연결(API 키) 정보가 포함되어 있지 않습니다. 직접 발급받은 API 키를 Forguncy 빌더> 파일 > 옵션 > 응용 프로그램 설정에서 등록한 후 실행해주세요.
 
